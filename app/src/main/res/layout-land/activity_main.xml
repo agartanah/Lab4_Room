@@ -8,9 +8,6 @@
     android:contentDescription="plus"
     tools:context=".MainActivity">
 
-    <!--recycler view for displaying all notes-->
-
-    <!--fab for adding a new note-->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/notesRV"
         android:layout_width="match_parent"
